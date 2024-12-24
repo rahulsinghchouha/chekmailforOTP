@@ -9,8 +9,8 @@ exports.sendMail = async (req, res) => {
             port: 587,
             secure: false,
             auth: {
-                user: "noreply@newdaydiagnostics.com",
-                pass: "ShareSecret.23",
+                user: 
+                pass:
             }
 
         })
